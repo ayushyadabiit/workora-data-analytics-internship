@@ -1,0 +1,6 @@
+CustomerID,Name,Age,Gender,City,PurchaseAmount,PurchaseDate
+1001,Rahul,24,Male,Delhi,2500,2025-01-10
+1002,Priya,29,Female,Mumbai,3200,2025-01-12
+1003,Amit,31,Male,Pune,1500,2025-01-15
+1004,Sneha,27,Female,Bangalore,4100,2025-01-18
+1005,Arjun,35,Male,Hyderabad,2900,2025-01-20
