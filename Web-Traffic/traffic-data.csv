@@ -1,1 +1,6 @@
-
+Date,Users,Sessions,PageViews,BounceRate,AvgSessionDuration,TrafficSource,Device
+2025-01-01,1200,1450,3800,42%,3m 12s,Organic Search,Mobile
+2025-01-02,980,1150,3100,45%,2m 55s,Direct,Desktop
+2025-01-03,1500,1750,4600,39%,3m 35s,Social Media,Mobile
+2025-01-04,1100,1300,3400,41%,3m 08s,Referral,Desktop
+2025-01-05,1700,1950,5100,37%,3m 48s,Organic Search,Mobile
