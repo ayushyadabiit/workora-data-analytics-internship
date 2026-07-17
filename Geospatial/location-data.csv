@@ -1,1 +1,6 @@
-
+LocationID,City,State,Latitude,Longitude,Sales,Customers,Revenue
+1,Mumbai,Maharashtra,19.0760,72.8777,1250,820,250000
+2,Delhi,Delhi,28.6139,77.2090,1180,760,230000
+3,Bangalore,Karnataka,12.9716,77.5946,1100,700,215000
+4,Hyderabad,Telangana,17.3850,78.4867,980,620,190000
+5,Pune,Maharashtra,18.5204,73.8567,920,590,180000
