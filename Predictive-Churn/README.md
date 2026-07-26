@@ -1,3 +1,5 @@
 # Predictive Churn Analysis
 
-This folder contains the work completed for the Predictive Churn Analysis milestone.
+This project demonstrates predictive customer churn analysis using a simple machine learning classification approach.
+
+The objective is to identify customers likely to churn and provide business recommendations to improve retention.
